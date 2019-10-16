@@ -9,20 +9,20 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: Liam Arbuckle # add your name
+author-pic: runners.PNG
+about-author: My name is Liam Arbuckle. I'm a 17 year old games developer and I'm going into university to study software engineering.
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
+email: liam.chairman@allianceofdroids.org.au
+phone: +61 466 225 878
+website: allianceofdroids.org.au
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+github: IrisDroidology # Add your Github handle
+twitter: '@OpusTheRobot' # Add your Twitter handle
+facebook: droidology
+instagram: droidology
+pinterest: droidology
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier.
