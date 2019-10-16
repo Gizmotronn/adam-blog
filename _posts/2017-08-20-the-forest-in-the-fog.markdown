@@ -1,28 +1,25 @@
 ---
 layout: post
-title: The forest in the fog
-date: 2017-08-20 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-6.jpg # Add image post (optional)
-tags: [Blog, Meditation]
+title:  Droid Parts List
+date:   2019-07-15 13:32:20 +0800
+description: The parts list for my droid, which is being built by ACORD Robotics
+img: wallhaven-96688w.jpg # Add image post (optional)
+tags: [Droid, ACORD, Coding, Robotics]
 author: # Add name author (optional)
+
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The parts list for my droid, which is being built by ACORD Robotics
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- MarcDuino's V1.5 (from R2-D2 Builders Club)
+- Teeces Logic Lights (from R2-D2 Builders Club)
+- R2-D2 styled dome, styrene/aluminium on rotating base
+- Dome Holoprojector - search for R2-D2 Holoprojector
+- Dome Eye
+- MarcDuinos Holoprojector Boards (R2-D2 Builders Club)
+- Xbox One/360 controller (for Padawan 360 setup)
+- MP3 Trigger
+- WiFly receiver/XBee Radio
+- Arduino Uno 3 (for Padawan 360 setup)
+- Light board (for dome and for body) (preferably ability to be toggled via android phone or smart device?)
+- Wheels & Wheel motors
